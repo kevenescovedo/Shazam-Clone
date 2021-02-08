@@ -1,8 +1,8 @@
 # shazam_flutter
 
-A Shazam clone built in Flutter
+um clone do aplicativo shazam
 
 ## Video
 
 
-- [Build a Shazam Clone in Flutter using ACRCloud and Riverpod](https://www.youtube.com/watch?v=u2CsZnHMhmY)
+- [Veja o aplicativo funcionando](https://www.youtube.com/watch?v=HujBHC4Ka1c&t=2s)
