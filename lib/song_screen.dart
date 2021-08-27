@@ -22,11 +22,11 @@ class SongScreen extends StatelessWidget {
               width: MediaQuery.of(context).size.width,
               decoration: BoxDecoration(
                   image: DecorationImage(
-                      image: song != null
-                          ? NetworkImage(song?.album?.coverMedium)
-                          : AssetImage('assets/images/todd.jpg'),
+                      image: 
+                          NetworkImage(song?.album?.coverMedium)
+                         
                       fit: BoxFit.cover)),
-              // child: Image.asset('assets/images/todd.jpg'),
+              
             ),
             Expanded(
               child: Container(
