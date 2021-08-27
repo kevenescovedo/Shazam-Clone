@@ -23,7 +23,7 @@ class SongScreen extends StatelessWidget {
               decoration: BoxDecoration(
                   image: DecorationImage(
                       image: 
-                          NetworkImage(song?.album?.coverMedium)
+                          NetworkImage(song?.album?.coverMedium),
                          
                       fit: BoxFit.cover)),
               
